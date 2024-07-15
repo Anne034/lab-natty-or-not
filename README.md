@@ -20,22 +20,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Roteiro + IA: A dupla para uma apresentação para o seu Restaurante
+
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este roteiro serve para guiar a produção de um vídeo de apresentação atraente para o um restaurante fictício que está inaugurando em São Paulo
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa Google Gemini para desenvolvimento do roteiro;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o Google Gemini para desenvolver um roteiro para um vídeo com narração e descrição das ações do ator e descrição de onde ele estará em cada cena. Após detalhar para a Inteligência Artificial cada detalhe que não podia ser mudado, como nomes próprios do local, ator e conceitos do vídeo de divulgação, o Gemini desenvolveu a parte criativa
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Com 6 cenas dinâmicas e recursos inovadores como narração envolvente, imagens cativantes, edição profissional e dicas extras, o roteiro não só orienta o criador de conteúdo sobre como fazer cada cena, mas também ajuda a prender a atenção do público e conquistar novos clientes para o negócio em questão.
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+A inteligência artificial na criação de conteúdo para marketing é promissora: aumenta a produtividade, impulsiona a criatividade, personaliza o conteúdo e reduz custos, te ajudando a alcançar o sucesso no mercado digital!
+
 ```
 
 ### Exemplos e Insigths
@@ -47,5 +50,8 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 ## Links Interessantes
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+
+![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+
 
 ![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
